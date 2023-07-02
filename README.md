@@ -26,7 +26,13 @@ smoke - тестирование, приемочное, регрессионно
 
 Ссылка на проект
 функциональный тесты: https://app.qase.io/project/KR2?previewMode=side&suite=1
-https://miro.com/app/board/uXjVPj8ezpc=/
+Логин: maria.malova@mail.ru
+Пароль: test_sky_1
+
+декомпозиция: https://miro.com/app/board/uXjVPj8ezpc=/
+
+Баг-трекинговая система: https://maria-test-sky.atlassian.net/jira/software/projects/DMGD/boards/9
+
 
 логин: dehico8286@fsouda.com
 
