@@ -54,8 +54,6 @@ SoapUI, Sitechko, Chrome DevTools, pgAdmin, Miro
 
 ##### декомпозиция: https://miro.com/app/board/uXjVPj8ezpc=/
 
-##### приемочное тестирование: https://app.qase.io/project/KR1?case=2&suite=1
-
 ##### Баг-трекинговая система: https://maria-test-sky.atlassian.net/jira/software/projects/DMGD/boards/9
 ##### логин: maria.malova@mail.ru
 ##### пароль: Jira_sky_1
